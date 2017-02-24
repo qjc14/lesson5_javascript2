@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 24, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Quinn and Ciambella)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(We created a tax calculator in javascript and did a bunch of different scenarios for taxes.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://qjc14.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to switch around different equations and taxes.)
+2. (Learned more about the wonders of javascript.)
+3. (Learned kind of how turbotax works on the most simple of simplicities.)
